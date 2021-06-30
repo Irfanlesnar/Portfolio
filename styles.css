@@ -297,12 +297,46 @@ div.sticky{
 }
 
 #card-11-color:hover{
-    background-color:#b4b4b4 ;
+    background-color:#ffffff ;
     transition: all .2s linear;
     transform: scale(1.5);
     z-index: 40;
     box-shadow: 3px 3px 50px;
 }
+
+#card-12-color:hover{
+    background-color:#00761e ;
+    transition: all .2s linear;
+    transform: scale(1.5);
+    z-index: 40;
+    box-shadow: 3px 3px 50px;
+}
+
+#card-13-color:hover{
+    background-color:#ccac48 ;
+    transition: all .2s linear;
+    transform: scale(1.5);
+    z-index: 40;
+    box-shadow: 3px 3px 50px;
+}
+
+#card-14-color:hover{
+    background-color:#7d2a90 ;
+    transition: all .2s linear;
+    transform: scale(1.5);
+    z-index: 40;
+    box-shadow: 3px 3px 50px;
+}
+#card-15-color:hover{
+    background-color:#ffffff ;
+    transition: all .2s linear;
+    transform: scale(1.5);
+    z-index: 40;
+    box-shadow: 3px 3px 50px;
+}
+
+
+
 
 
 
@@ -376,7 +410,13 @@ div.sticky{
 }
 
 
-
+.tool-used{
+    display: table;
+    width: 30px;
+   
+    padding-top: 30px;
+    
+}
 
 
 
